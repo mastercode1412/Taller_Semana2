@@ -1,4 +1,7 @@
+# Filtros de compilacion para Eclipse - Semana 2
 /bin/
+
+# Archivos de configuracion local del IDE (Evita subir al repositorio remoto)
 /.settings/
 /.classpath
 /.project
