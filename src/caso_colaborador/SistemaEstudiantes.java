@@ -58,7 +58,7 @@ public class SistemaEstudiantes {
     }
 
     // Método para imprimir el reporte masivo de la colección
- // >>> REPORTE DE CONTROL DE EXCEPCIONES: HISTORIAL DE ESTUDIANTES <<<.
+ // >>> REPORTE DE CONTROL DE EXCEPCIONES: HISTORIAL DE ESTUDIANTES <<<..
     public void mostrarListaCompleta() {
         System.out.println("=========================================");
         System.out.println("     REPORTE FINAL: LISTA DE ESTUDIANTES ");
