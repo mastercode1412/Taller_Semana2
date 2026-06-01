@@ -1,6 +1,7 @@
 // Autor: Francisco Portocarrero Rios
 // Curso: Técnicas de Programación
 // Caso Práctico 5: Orquestador y Conductor del Flujo de Estudiantes
+// Modificación de documentación realizada por colaborador (laptop2)
 
 package caso_colaborador;
 

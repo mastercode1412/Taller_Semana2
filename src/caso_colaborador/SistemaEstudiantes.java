@@ -58,6 +58,7 @@ public class SistemaEstudiantes {
     }
 
     // Método para imprimir el reporte masivo de la colección
+    // REPORTE FINAL DE MATRICULA: LISTA OFICIAL DE ESTUDIANTES UPN
     // REPORTE FINAL: CONTROL DE EXCEPCIONES Y MATRICULA DE ESTUDIANTES UPN.
     public void mostrarListaCompleta() {
         System.out.println("=========================================");
@@ -74,4 +75,5 @@ public class SistemaEstudiantes {
         }
         System.out.println("=========================================");
     }
+    
 }
